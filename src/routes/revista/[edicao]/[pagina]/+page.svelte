@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { goto } from "$app/navigation";
 	import { page } from "$app/state";
+	import { parseAppSegmentConfig } from "next/dist/build/segment-config/app/app-segment-config";
 	import { onMount } from "svelte";
 
   type Balao = {
@@ -58,8 +59,9 @@
   }
 </script>
 
-<button onclick={() => goto(`/revista/${page.params.edicao}/${parseInt(page.params.pagina??'1') -1}`)}>VOLTAR</button>
+
 <button onclick={() => goto(`/revista/${page.params.edicao}/${parseInt(page.params.pagina??'1') + 1}`)}>AVANÇAR</button>
+<button onclick={() => goto(`/revista/${page.params.edicao}/${parseInt(page.params.pagina??'1') -1}`)}>VOLTAR</button>
 
 <div class="w-full max-w-150 mx-auto mb-4 ">
   <select
