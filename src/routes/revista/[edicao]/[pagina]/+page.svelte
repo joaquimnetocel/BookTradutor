@@ -1,5 +1,6 @@
 <script lang="ts">
 	import { goto } from '$app/navigation';
+	import { resolve } from '$app/paths';
 	import { page } from '$app/state';
 	import { type Balao } from '$lib/types/typeBalao';
 	import { fade, fly } from 'svelte/transition';
@@ -39,27 +40,31 @@
 
 <div class="text-center">
 	<button
-		onclick={() => paginaAtual > 1 && goto(`/revista/${page.params.edicao}/${paginaAtual - 1}`)}
+		onclick={() =>
+			paginaAtual > 1 && goto(resolve(`/revista/${page.params.edicao}/${paginaAtual - 1}`))}
 		disabled={paginaAtual <= 1}
 	>
 		VOLTAR
 	</button>
 
 	<select
+		value={paginaAtual}
 		onchange={(event) => {
 			const valorSelecionado = (event.currentTarget as HTMLSelectElement).value;
-			goto(`/revista/${page.params.edicao}/${valorSelecionado}`);
+			goto(resolve(`/revista/${page.params.edicao}/${valorSelecionado}`));
 		}}
 		class="mx-auto max-w-20 rounded border p-2"
 	>
-		{#each Array.from({ length: data.totalPaginas }) as _, p}
+		<!-- eslint-disable-next-line @typescript-eslint/no-unused-vars-->
+		{#each Array.from({ length: data.totalPaginas }) as _, p (p)}
 			<option value={p + 1}>{p + 1} / {data.totalPaginas}</option>
 		{/each}
 	</select>
 
 	<button
 		onclick={() =>
-			paginaAtual < data.totalPaginas && goto(`/revista/${page.params.edicao}/${paginaAtual + 1}`)}
+			paginaAtual < data.totalPaginas &&
+			goto(resolve(`/revista/${page.params.edicao}/${paginaAtual + 1}`))}
 		disabled={paginaAtual >= data.totalPaginas}
 	>
 		AVANÇAR
@@ -80,7 +85,7 @@
 		}}
 	/>
 
-	{#each balaoJson as balao}
+	{#each balaoJson as balao, i (i)}
 		<!-- svelte-ignore a11y_consider_explicit_label -->
 		<button
 			type="button"
@@ -131,8 +136,8 @@
 		>
 			<div class="relative rounded-2xl bg-black p-4 text-sm text-white shadow-xl">
 				{popupTexto}
-        <br><button onclick={() => popupVisivel = false} class = 'bg-blue-500'>aaaa</button>
-        <br><button onclick={() => alert(22)} class = 'bg-blue-500'>aaaa</button>
+				<br /><button onclick={() => (popupVisivel = false)} class="bg-blue-500">aaaa</button>
+				<br /><button onclick={() => alert(22)} class="bg-blue-500">aaaa</button>
 
 				<!-- Pontinha do balão -->
 				<div class="absolute -top-2 left-6 h-4 w-4 rotate-45 bg-black"></div>
