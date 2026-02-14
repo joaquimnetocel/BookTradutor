@@ -38,11 +38,15 @@
 	});
 </script>
 
-<div class="text-center">
+<div class="mt-2 mb-2 flex items-center justify-center gap-3">
 	<button
-		onclick={() =>
-			paginaAtual > 1 && goto(resolve(`/revista/${page.params.edicao}/${paginaAtual - 1}`))}
+		onclick={() => {
+			if (paginaAtual > 1) {
+				goto(resolve(`/revista/${page.params.edicao}/${paginaAtual - 1}`));
+			}
+		}}
 		disabled={paginaAtual <= 1}
+		class="classButton"
 	>
 		VOLTAR
 	</button>
@@ -53,7 +57,7 @@
 			const valorSelecionado = (event.currentTarget as HTMLSelectElement).value;
 			goto(resolve(`/revista/${page.params.edicao}/${valorSelecionado}`));
 		}}
-		class="mx-auto max-w-20 rounded border p-2"
+		class="max-w-20 rounded border p-2"
 	>
 		<!-- eslint-disable-next-line @typescript-eslint/no-unused-vars-->
 		{#each Array.from({ length: data.totalPaginas }) as _, p (p)}
@@ -62,10 +66,13 @@
 	</select>
 
 	<button
-		onclick={() =>
-			paginaAtual < data.totalPaginas &&
-			goto(resolve(`/revista/${page.params.edicao}/${paginaAtual + 1}`))}
+		onclick={() => {
+			if (paginaAtual < data.totalPaginas) {
+				goto(resolve(`/revista/${page.params.edicao}/${paginaAtual + 1}`));
+			}
+		}}
 		disabled={paginaAtual >= data.totalPaginas}
+		class="classButton"
 	>
 		AVANÇAR
 	</button>
