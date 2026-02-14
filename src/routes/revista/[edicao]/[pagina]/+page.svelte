@@ -75,6 +75,16 @@
 		popupBalãoIndex = index;
 		popupVisivel = true;
 	}
+
+	let popupFontSize = $state(14); // tamanho inicial da fonte do popup
+
+	function aumentarFonte() {
+		if (popupFontSize < 30) popupFontSize += 2; // limite máximo 30px
+	}
+
+	function diminuirFonte() {
+		if (popupFontSize > 10) popupFontSize -= 2; // limite mínimo 10px
+	}
 </script>
 
 <div class="mt-2 mb-2 flex items-center justify-center gap-3">
@@ -147,16 +157,30 @@
 			in:slide={{ duration: 500 }}
 			out:slide={{ duration: 150 }}
 		>
-			<div class="relative rounded-2xl bg-black p-4 text-sm text-white shadow-xl">
+			<!-- svelte-ignore a11y_click_events_have_key_events -->
+			<!-- svelte-ignore a11y_no_static_element_interactions -->
+			<div
+				class="relative rounded-2xl bg-black p-4 text-white shadow-xl"
+				style="font-size: {popupFontSize}px;"
+				onclick={(event) => {
+					event.stopPropagation(); // ⚡ impede o fechamento do popup
+				}}
+			>
 				{popupTexto}
 
-				<br />
-				<button
-					onclick={() => ((popupVisivel = false), (popupBalãoIndex = null))}
-					class="mt-2 rounded bg-blue-500 px-2 py-1"
-				>
-					Fechar
-				</button>
+				<div class="mt-2 flex justify-between gap-1">
+					<button
+						onclick={() => ((popupVisivel = false), (popupBalãoIndex = null))}
+						class="rounded bg-blue-500 px-2 py-1"
+					>
+						Fechar
+					</button>
+
+					<div class="flex gap-1">
+						<button onclick={diminuirFonte} class="rounded bg-gray-700 px-2 py-1">-</button>
+						<button onclick={aumentarFonte} class="rounded bg-gray-700 px-2 py-1">+</button>
+					</div>
+				</div>
 
 				<div class="absolute -top-2 left-6 h-4 w-4 rotate-45 bg-black"></div>
 			</div>
