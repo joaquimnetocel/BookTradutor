@@ -4,8 +4,8 @@
     "y1": 311,
     "x2": 1328,
     "y2": 495,
-    "ptbr": "Você clicou no balão 1!",
-    "ptbrpp": ["Você", "clicou", "no", "balão 1!"],
+    "ptbr": ["Você", "clicou", "no", "balão 1!"],
+    "ptbrpp": ["O 'so' não tem tradução literal direta.<br>Ele funciona como um substituto daquilo que já foi dito ou decidido."],
     "en": ["You", "clicked", "on", "balloon 1!"]
 },
 {
@@ -13,7 +13,7 @@
     "y1": 57,
     "x2": 516,
     "y2": 320,
-    "ptbr": "Bola amarela",
+    "ptbr": ["Bola", "amarela"],
 	"ptbrpp": ["AMARELA", "BOLA"],
     "en": ["Yellow", "ball"]
   }

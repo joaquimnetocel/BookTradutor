@@ -1,25 +1,23 @@
-<script>
-	import { getVoices, speak } from '../lib/funcaoTextToSpeech';
+<script lang="ts">
+	let modal = $state<HTMLDialogElement | undefined>(undefined);
 
-	let text = $state(
-		`AMAZING! LOOK AT THEM FLEE THE FLEAS... RIGHT INTO THEIR CAGES! DONALD, YOU'RE A MARVEL!`
-	);
-	let selectedVoice = $state('');
+	function openModal() {
+		modal?.showModal();
+	}
 
-	let voices = $derived(
-		getVoices().filter((current) => {
-			return current.lang.slice(0, 2) === 'en';
-		})
-	);
+	function closeModal() {
+		modal?.close();
+	}
 </script>
 
-<select bind:value={selectedVoice}>
-	<option value="">Padrão</option>
-	{#each voices as voice, i (i)}
-		<option value={voice.name}>
-			{voice.name} ({voice.lang})
-		</option>
-	{/each}
-</select>
+<button onclick={openModal}>open modal</button>
 
-<button onclick={() => speak(text, { voiceName: selectedVoice })}> Falar </button>
+<dialog bind:this={modal} class="daisy-modal">
+	<div class="daisy-modal-box">
+		<h3 class="text-lg font-bold">Hello!</h3>
+		<p class="py-4">Press ESC key or click outside to close</p>
+	</div>
+	<form method="dialog" class="daisy-modal-backdrop">
+		<button onclick={closeModal}>close</button>
+	</form>
+</dialog>
