@@ -31,7 +31,10 @@
 				title: 'meu-titulo-pequeno'
 			},
 			footer: '* Clique em cada palavra isoladamente para ver sua tradução.',
-			confirmButtonColor: '#3085d6'
+			confirmButtonColor: '#3085d6',
+			didClose: () => {
+				unmount(app);
+			}
 		});
 	}
 </script>
