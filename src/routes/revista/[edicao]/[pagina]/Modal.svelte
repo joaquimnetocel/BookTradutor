@@ -17,12 +17,22 @@
 </script>
 
 {#each traducaopp as traducaocorrente, i (i)}
-	<button
-		onclick={() => abrir(traducaocorrente, original[i])}
-		class="cursor-pointer bg-[lightcyan] px-1 font-bold text-[#0d6efd]"
-	>
-		{original[i]}
-	</button>&nbsp;&nbsp;
+	{@const primeiroCaracter = traducaocorrente.slice(0, 1)}
+	{#if primeiroCaracter === '*'}
+		<button
+			onclick={() => abrir(traducaocorrente.slice(1), original[i])}
+			class="cursor-pointer bg-[lightcyan] px-1 font-bold text-[#0d6efd]"
+		>
+			{original[i]}
+		</button>&nbsp;&nbsp;
+	{:else}
+		<span class="tooltip-container">
+			{original[i]}
+			<div class="tooltip-text">
+				{traducaocorrente}
+			</div>
+		</span>
+	{/if}
 {/each}
 
 <br /><br />
@@ -43,3 +53,40 @@
 		<button>close</button>
 	</form>
 </dialog>
+
+<style>
+	/* Tooltip padrão (desktop) */
+	:global(.tooltip-text) {
+		visibility: hidden;
+		opacity: 0;
+		transition: opacity 0.2s ease;
+
+		position: absolute;
+		bottom: 100%;
+		left: 50%;
+		transform: translateX(-50%);
+
+		background: #333;
+		color: #fff;
+		padding: 8px 12px;
+		border-radius: 8px;
+		font-size: 14px;
+
+		width: max-content;
+		max-width: 300px;
+
+		white-space: normal;
+		word-break: break-word;
+		overflow-wrap: break-word;
+
+		box-sizing: border-box;
+		z-index: 9999;
+		text-align: center;
+	}
+
+	/* Mostra tooltip ao hover */
+	:global(.tooltip-container:hover .tooltip-text) {
+		visibility: visible;
+		opacity: 1;
+	}
+</style>

@@ -63,41 +63,6 @@
 		display: inline-block; /* importante para absolute funcionar corretamente */
 	}
 
-	/* Tooltip padrão (desktop) */
-	:global(.tooltip-text) {
-		visibility: hidden;
-		opacity: 0;
-		transition: opacity 0.2s ease;
-
-		position: absolute;
-		bottom: 140%;
-		left: 50%;
-		transform: translateX(-50%);
-
-		background: #333;
-		color: #fff;
-		padding: 8px 12px;
-		border-radius: 8px;
-		font-size: 14px;
-
-		width: max-content;
-		max-width: 300px;
-
-		white-space: normal;
-		word-break: break-word;
-		overflow-wrap: break-word;
-
-		box-sizing: border-box;
-		z-index: 9999;
-		text-align: center;
-	}
-
-	/* Mostra tooltip ao hover */
-	:global(.tooltip-container:hover .tooltip-text) {
-		visibility: visible;
-		opacity: 1;
-	}
-
 	/* Título do SweetAlert */
 	:global(.meu-titulo-pequeno) {
 		font-size: 26px; /* ajuste o tamanho que quiser */
