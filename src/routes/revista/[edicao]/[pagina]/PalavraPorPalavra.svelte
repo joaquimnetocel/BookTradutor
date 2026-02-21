@@ -7,11 +7,13 @@
 	let {
 		original,
 		traducaopp,
-		traducao
+		traducao,
+		voz
 	}: {
 		original: string[];
 		traducaopp: string[];
 		traducao: string[];
+		voz: string;
 	} = $props();
 
 	function abrirSweetAlert() {
@@ -20,7 +22,7 @@
 		// 2. Monta o componente passando as props necessárias
 		const app = mount(Modal, {
 			target: container,
-			props: { traducaopp, original, traducao }
+			props: { traducaopp, original, traducao, voz }
 		});
 
 		Swal.fire({

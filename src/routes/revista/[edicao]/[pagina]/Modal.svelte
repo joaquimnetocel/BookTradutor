@@ -1,4 +1,6 @@
 <script lang="ts">
+	import TextToSpeech from './TextToSpeech.svelte';
+
 	let modal = $state<HTMLDialogElement>();
 	let palavraSelecionada = $state(''); // Estado para armazenar o texto atual
 	let palavraSelecionadaOriginal = $state(''); // Estado para armazenar o texto atual
@@ -6,8 +8,9 @@
 	let {
 		traducaopp,
 		original,
-		traducao
-	}: { traducaopp: string[]; original: string[]; traducao: string[] } = $props();
+		traducao,
+		voz
+	}: { traducaopp: string[]; original: string[]; traducao: string[]; voz: string } = $props();
 
 	function abrir(traducao: string, original: string) {
 		palavraSelecionada = traducao; // Atualiza o conteúdo
@@ -34,8 +37,12 @@
 		</span>
 	{/if}
 {/each}
+<br />
+<div class="mt-2">
+	<TextToSpeech texto={original.join(' ')} {voz} />
+</div>
 
-<br /><br />
+<br />
 {traducao.join(' ')}
 
 <dialog bind:this={modal} class="daisy-modal">

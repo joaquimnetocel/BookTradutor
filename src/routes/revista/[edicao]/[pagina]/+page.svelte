@@ -232,6 +232,7 @@
 						original={arrayOriginal}
 						traducao={arrayTraducao}
 						traducaopp={arrayTraducaopp}
+						voz={stringVoz}
 					/>
 
 					<TextToSpeech voz={stringVoz} texto={arrayOriginal.join(' ')} />
