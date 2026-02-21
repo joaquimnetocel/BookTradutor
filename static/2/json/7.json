@@ -1,0 +1,93 @@
+[
+  {
+    "x1": 74,
+    "y1": 192,
+    "x2": 833,
+    "y2": 497,
+    "ptbr": ["O", "QUARTO", "ESTÁ", "UM", "CAOS!", "EU", "PENSEI", "QUE", "TINHA", "MANDADO", "VOCÊS", "ARRUMAREM!", "E", "ABAIXE", "ESSE", "BARULHO!"],
+    "ptbrpp": ["O", "QUARTO", "ESTÁ", "UM", "CAOS!", "EU", "PENSEI", "QUE", "TINHA", "MANDADO", "VOCÊS", "ARRUMAREM!", "E", "ABAIXE", "ESSE", "BARULHO!"],
+    "en": ["THE", "ROOM", "IS", "A", "WRECK!", "I", "THOUGHT", "I", "TOLD", "YOU", "TO", "CLEAN", "IT", "UP!", "AND", "TURN", "DOWN", "THAT", "NOISE!"]
+  },
+  {
+    "x1": 859,
+    "y1": 188,
+    "x2": 1141,
+    "y2": 372,
+    "ptbr": ["ESPERE", "UM", "MINUTO!"],
+    "ptbrpp": ["ESPERE", "UM", "MINUTO!"],
+    "en": ["WAIT", "A", "MINUTE!"]
+  },
+  {
+    "x1": 1162,
+    "y1": 186,
+    "x2": 1496,
+    "y2": 372,
+    "ptbr": ["ESTÃO", "PRONTOS,", "HOMENS?"],
+    "ptbrpp": ["ESTÃO", "PRONTOS,", "HOMENS?"],
+    "en": ["ARE", "YOU", "READY,", "MEN?"]
+  },
+  {
+    "x1": 1584,
+    "y1": 183,
+    "x2": 1896,
+    "y2": 376,
+    "ptbr": ["É", "ISSO,", "AQUI", "VEM..."],
+    "ptbrpp": ["É", "ISSO,", "AQUI", "VEM..."],
+    "en": ["YEAH,", "HERE", "IT", "COMES..."]
+  },
+  {
+    "x1": 366,
+    "y1": 1112,
+    "x2": 904,
+    "y2": 1376,
+    "ptbr": ["NÃO", "ME", "VENHA", "COM", "'ESPERE", "UM", "POUQUINHO',", "RAPAZES!", "ESTE", "LUGAR", "PARECE", "QUE", "FOI", "ATINGIDO", "POR", "UM..."],
+    "ptbrpp": ["NÃO", "ME", "VENHA", "COM", "'ESPERE", "UM", "POUQUINHO',", "RAPAZES!", "ESTE", "LUGAR", "PARECE", "QUE", "FOI", "ATINGIDO", "POR", "UM..."],
+    "en": ["DON'T", "'WAITAMINNIT'", "ME,", "BOYS!", "THIS", "PLACE", "LOOKS", "LIKE", "IT", "WAS", "HIT", "BY", "AN..."]
+  },
+  {
+	"x1": 993,
+	"y1": 1050,
+	"x2": 1452,
+	"y2": 1351,
+	"ptbr": ["...TERREMOTO!"],
+	"ptbrpp": ["...TERREMOTO!"],
+	"en": ["...EARTH-QUAKE!"]
+  },
+  {
+	"x1": 80,
+	"y1": 2045,
+	"x2": 285,
+	"y2": 2175,
+	"ptbr": ["AI!"],
+	"ptbrpp": ["AI!"],
+	"en": ["OUCH!"]
+  },
+  {
+	"x1": 521,
+	"y1": 2043,
+	"x2": 880,
+	"y2": 2196,
+	"ptbr": ["BALANÇA", "O", "QUADRIL!"],
+	"ptbrpp": ["BALANÇA", "O", "QUADRIL!"],
+	"en": ["HIP", "'N'", "SHAKE!"]
+  },
+  {
+	"x1": 1262,
+	"y1": 2086,
+	"x2": 1606,
+	"y2": 2262,
+	"ptbr": ["PULA", "E", "QUEBRA!"],
+	"ptbrpp": ["PULA", "E", "QUEBRA!"],
+	"en": ["HOP", "'N'", "BREAK!"]
+  },
+  {
+	"x1": 1646,
+	"y1": 2040,
+	"x2": 1902,
+	"y2": 2264,
+	"ptbr": ["FAÇA", "O", "TERREMOTO!"],
+	"ptbrpp": ["FAÇA", "O", "TERREMOTO!"],
+	"en": ["DO", "THE", "QUAKE!"]
+  }
+
+]

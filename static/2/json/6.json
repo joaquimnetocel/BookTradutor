@@ -1,0 +1,93 @@
+[
+  {
+    "x1": 51,
+    "y1": 124,
+    "x2": 367,
+    "y2": 255,
+    "ptbr": ["BREVEMENTE"],
+    "ptbrpp": ["BREVEMENTE"],
+    "en": ["SHORTLY"]
+  },
+  {
+    "x1": 404,
+    "y1": 151,
+    "x2": 805,
+    "y2": 319,
+    "ptbr": ["PARE!"],
+    "ptbrpp": ["PARE!"],
+    "en": ["HALT!"]
+  },
+  {
+    "x1": 1028,
+    "y1": 148,
+    "x2": 1454,
+    "y2": 410,
+    "ptbr": ["OLHE!", "A", "PONTE", "FOI", "DANIFICADA!", "ELA", "VAI", "QUEBRAR", "EM", "BREVE!"],
+    "ptbrpp": ["OLHE!", "A", "PONTE", "FOI", "DANIFICADA!", "ELA", "VAI", "QUEBRAR", "EM", "BREVE!"],
+    "en": ["LOOK!", "THE", "BRIDGE", "HAS", "BEEN", "DAMAGED!", "IT'LL", "BREAK", "SOON!"]
+  },
+  {
+    "x1": 1495,
+    "y1": 145,
+    "x2": 1902,
+    "y2": 409,
+    "ptbr": ["MAS...", "VOCÊ", "ME", "FEZ", "PARAR", "BEM", "EM", "CIMA", "DA", "FISSURA!"],
+    "ptbrpp": ["MAS...", "VOCÊ", "ME", "FEZ", "PARAR", "BEM", "EM", "CIMA", "DA", "FISSURA!"],
+    "en": ["BUT...", "YOU", "MADE", "ME", "STOP", "RIGHT", "ON", "TOP", "OF", "THE", "CRACK!"]
+  },
+  {
+    "x1": 80,
+    "y1": 1080,
+    "x2": 964,
+    "y2": 1340,
+    "ptbr": ["EXATAMENTE!", "ASSIM", "ELA", "PODE", "SUSTENTAR", "A", "PONTE", "ATÉ", "O", "ESCORAMENTO", "ADEQUADO!"],
+    "ptbrpp": ["EXATAMENTE!", "ASSIM", "ELA", "PODE", "SUSTENTAR", "A", "PONTE", "ATÉ", "O", "ESCORAMENTO", "ADEQUADO!"],
+    "en": ["EXACTLY!", "THAT", "WAY", "IT", "CAN", "BRACE", "THE", "BRIDGE", "UNTIL", "PROPER", "SHORING!"]
+  },
+  {
+	"x1": 1568,
+	"y1": 1077,
+	"x2": 1855,
+	"y2": 1243,
+	"ptbr": ["INCRÍVEL!"],
+	"ptbrpp": ["INCRÍVEL!"],
+	"en": ["AMAZING!"]
+  },
+  {
+	"x1": 668,
+	"y1": 1757,
+	"x2": 1401,
+	"y2": 1949,
+	"ptbr": ["METADE", "DE", "DOMINAR", "DESASTRES", "É", "PREVENIR", "QUE", "DESASTRES", "ACONTEÇAM!"],
+	"ptbrpp": ["METADE", "DE", "DOMINAR", "DESASTRES", "É", "PREVENIR", "QUE", "DESASTRES", "ACONTEÇAM!"],
+	"en": ["HALF", "OF", "MASTERING", "DISASTER", "IS", "TO", "PREVENT", "DISASTERS", "FROM", "HAPPENING!"]
+  },
+  {
+	"x1": 253,
+	"y1": 2039,
+	"x2": 923,
+	"y2": 2213,
+	"ptbr": ["SIM,", "SENHOR!", "DONALD", "ESTÁ", "NO", "NEGÓCIO", "COMO", "O", "MESTRE", "DE", "TODO", "DESASTRE..."],
+	"ptbrpp": ["SIM,", "SENHOR!", "DONALD", "ESTÁ", "NO", "NEGÓCIO", "COMO", "O", "MESTRE", "DE", "TODO", "DESASTRE..."],
+	"en": ["YESSIR!", "DONALD'S", "IN", "BUSINESS", "AS", "THE", "MASTER", "OF", "EVERY", "DISASTER..."]
+  },
+  {
+	"x1": 100,
+	"y1": 2249,
+	"x2": 437,
+	"y2": 2450,
+	"ptbr": ["OLÁÁ!", "RAPAZES!", "EU", "ESTOU", "EM", "CASA!"],
+	"ptbrpp": ["OLÁÁ!", "RAPAZES!", "EU", "ESTOU", "EM", "CASA!"],
+	"en": ["YOO-HOO!", "BOYS!", "I'M", "HOME!"]
+  },
+  {
+	"x1": 1116,
+	"y1": 2026,
+	"x2": 1429,
+	"y2": 2165,
+	"ptbr": ["...EXCETO", "UM!"],
+	"ptbrpp": ["...EXCETO", "UM!"],
+	"en": ["...EXCEPT", "ONE!"]
+  }
+
+]

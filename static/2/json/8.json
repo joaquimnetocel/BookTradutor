@@ -1,0 +1,129 @@
+[
+  {
+    "x1": 63,
+    "y1": 176,
+    "x2": 972,
+    "y2": 300,
+    "ptbr": ["AGORA", "VAI", "ME", "DIZER", "O", "QUE", "ESTÁ", "ACONTECENDO?"],
+    "ptbrpp": ["AGORA", "VAI", "ME", "DIZER", "O", "QUE", "ESTÁ", "ACONTECENDO?"],
+    "en": ["NOW", "WILL", "YOU", "TELL", "ME", "WHAT'S", "GOING", "ON?"]
+},
+{
+	"x1": 184,
+    "y1": 303,
+    "x2": 517,
+    "y2": 485,
+    "ptbr": ["É", "A", "DANÇA", "DO", "TERREMOTO!"],
+	"ptbrpp": ["É", "A", "DANÇA", "DO", "TERREMOTO!"],
+    "en": ["IT'S", "QUAKE-DANCE!"]
+  },
+  {
+	"x1": 529,
+    "y1": 300,
+    "x2": 947,
+    "y2": 513,
+    "ptbr": ["É", "ISSO!", "OS", "TERREMOTOS", "SEMPRE", "VÊM..."],
+	"ptbrpp": ["É", "ISSO!", "OS", "TERREMOTOS", "SEMPRE", "VÊM..."],
+    "en": ["YEAH!", "THE", "EARTHQUAKES", "ALWAYS", "COME..."]
+  },
+  {
+	"x1": 224,
+    "y1": 984,
+    "x2": 707,
+    "y2": 1191,
+    "ptbr": ["...QUANDO", "O", "NOSSO", "PROGRAMA", "FAVORITO", "DE", "HIP-HOP", "ESTÁ", "NO", "AR!"],
+	"ptbrpp": ["...QUANDO", "O", "NOSSO", "PROGRAMA", "FAVORITO", "DE", "HIP-HOP", "ESTÁ", "NO", "AR!"],
+    "en": ["...WHEN", "OUR", "FAVORITE", "HIP-HOP", "PROGRAM'S", "ON!"]
+  },
+  {
+	"x1": 1033,
+    "y1": 173,
+    "x2": 1450,
+    "y2": 434,
+    "ptbr": ["VOCÊ", "ESTÁ", "DANÇANDO", "EM", "VEZ", "DE", "LIMPAR", "ESSA", "BAGUNÇA?!"],
+	"ptbrpp": ["VOCÊ", "ESTÁ", "DANÇANDO", "EM", "VEZ", "DE", "LIMPAR", "ESSA", "BAGUNÇA?!"],
+    "en": ["YOU'RE", "DANCING", "INSTEAD", "OF", "CLEANING", "UP", "THIS", "MESS?!"]
+  },
+  {
+	"x1": 1462,
+    "y1": 172,
+    "x2": 1817,
+    "y2": 339,
+    "ptbr": ["VAI", "HAVER", "OUTRO", "TERREMOTO!"],
+	"ptbrpp": ["VAI", "HAVER", "OUTRO", "TERREMOTO!"],
+    "en": ["THERE'LL", "BE", "ANOTHER", "QUAKE!"]
+  },
+  {
+	"x1": 1590,
+    "y1": 372,
+    "x2": 1907,
+    "y2": 503,
+    "ptbr": ["ENTÃO", "POR", "QUE", "SE", "PREOCUPAR?"],
+	"ptbrpp": ["ENTÃO", "POR", "QUE", "SE", "PREOCUPAR?"],
+    "en": ["SO", "WHY", "BOTHER?"]
+  },
+  {
+	"x1": 1680,
+    "y1": 504,
+    "x2": 1907,
+    "y2": 638,
+    "ptbr": ["É,", "POR", "QUÊ?"],
+	"ptbrpp": ["É,", "POR", "QUÊ?"],
+    "en": ["YEAH,", "WHY?"]
+  },
+  {
+	"x1": 804,
+    "y1": 1130,
+    "x2": 1146,
+    "y2": 1395,
+    "ptbr": ["POR", "QUÊ?", "PORQUE", "EU", "DISSE!", "É", "POR", "ISSO!"],
+	"ptbrpp": ["POR", "QUÊ?", "PORQUE", "EU", "DISSE!", "É", "POR", "ISSO!"],
+    "en": ["WHY?", "BECAUSE", "I", "SAID", "SO!", "THAT'S", "WHY!"]
+  },
+  {
+	"x1": 695,
+    "y1": 1409,
+    "x2": 1124,
+    "y2": 1572,
+    "ptbr": ["AGORA", "COMECE!"],
+	"ptbrpp": ["AGORA", "COMECE!"],
+    "en": ["NOW", "GET", "STARTED!"]
+  },
+  {
+	"x1": 1193,
+    "y1": 1070,
+    "x2": 1852,
+    "y2": 1408,
+    "ptbr": ["ALÔ?...", "SIM,", "SENHOR", "PREFEITO!...", "PARAR", "OS", "TERREMOTOS?", "EU?...", "UM", "PATROCÍNIO,", "O", "SENHOR", "DIZ?...", "SIM,", "ESTAREI", "AÍ", "JÁ!"],
+	"ptbrpp": ["ALÔ?...", "SIM,", "SENHOR", "PREFEITO!...", "PARAR", "OS", "TERREMOTOS?", "EU?...", "UM", "PATROCÍNIO,", "O", "SENHOR", "DIZ?...", "SIM,", "ESTAREI", "AÍ", "JÁ!"],
+    "en": ["HELLO?...", "YESSIR,", "MR.", "MAYOR!...", "STOP", "THE", "EARTHQUAKES?", "ME?...", "A", "SPONSOR,", "YOU", "SAY?...", "YES,", "I'LL", "BE", "RIGHT", "OVER!"]
+  },
+  {
+	"x1": 113,
+    "y1": 2023,
+    "x2": 541,
+    "y2": 2267,
+    "ptbr": ["OBA!", "ESTE", "SERÁ", "O", "MEU", "TRABALHO", "MAIS", "IMPORTANTE", "DE", "TODOS!"],
+	"ptbrpp": ["OBA!", "ESTE", "SERÁ", "O", "MEU", "TRABALHO", "MAIS", "IMPORTANTE", "DE", "TODOS!"],
+    "en": ["OBOY!", "THIS'LL", "BE", "MY", "MOST", "IMPORTANT", "JOB", "EVER!"]
+  },
+  {
+	"x1": 938,
+    "y1": 2019,
+    "x2": 1443,
+    "y2": 2304,
+    "ptbr": ["EU VOU", "PRECISAR", "DE", "UMA", "EQUIPE", "PARA", "ISSO!", "ARRUMEM AS MALAS,", "RAPAZES!"],
+	"ptbrpp": ["EU VOU", "PRECISAR", "DE", "UMA", "EQUIPE", "PARA", "ISSO!", "ARRUMEM AS MALAS,", "RAPAZES!"],
+    "en": ["I'LL", "NEED", "A", "CREW", "FOR", "THIS!", "GET PACKING,", "BOYS!"]
+  },
+  {
+	"x1": 328,
+    "y1": 2273,
+    "x2": 610,
+    "y2": 2438,
+    "ptbr": ["DE JEITO NENHUM!"],
+	"ptbrpp": ["DE JEITO NENHUM!"],
+    "en": ["NO WAY!"]
+  }
+
+]
