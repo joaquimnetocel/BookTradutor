@@ -1,0 +1,247 @@
+[
+    {
+        "x1": 432,
+        "y1": 165,
+        "x2": 751,
+        "y2": 356,
+        "en": [
+            "AS",
+            "THE",
+            "SOLDIER’S",
+            "BLOOD",
+            "STARTED",
+            "TO",
+            "POOL",
+            "AT",
+            "OUR",
+            "DOORSTEP,",
+            "MY",
+            "MOTHER",
+            "LOOKED",
+            "OVER",
+            "THE",
+            "FACES",
+            "OF",
+            "MY",
+            "SIBLINGS."
+        ],
+        "ptbr": [
+            "QUANDO",
+            "O",
+            "SANGUE",
+            "DO",
+            "SOLDADO",
+            "COMEÇOU",
+            "A",
+            "POSTAR",
+            "À",
+            "NOSSA",
+            "PORTA,",
+            "MINHA",
+            "MÃE",
+            "OLHAVA",
+            "PARA",
+            "OS",
+            "ROSTO",
+            "DOS",
+            "MEUS",
+            "IRMÃOS."
+        ],
+        "ptbrpp": [
+            "COMO",
+            "O",
+            "SOLDADO",
+            "SANGUE",
+            "INICIADO",
+            "PARA",
+            "PISCINA",
+            "NO",
+            "NOSSO",
+            "PORTA,",
+            "MEU",
+            "MÃE",
+            "VISTO",
+            "SOBRE",
+            "O",
+            "CARAS",
+            "DE",
+            "MEU",
+            "IRMÃOS."
+        ]
+    },
+    {
+        "x1": 94,
+        "y1": 2101,
+        "x2": 350,
+        "y2": 2224,
+        "en": [
+            "AND",
+            "PROCEEDED",
+            "TO",
+            "EXECUTE",
+            "THEM",
+            "ONE..."
+        ],
+        "ptbr": [
+            "E",
+            "PROCEDEU",
+            "A",
+            "EXECUTAR",
+            "UM..."
+        ],
+        "ptbrpp": [
+            "E",
+            "PROCEDIDO",
+            "PARA",
+            "EXECUTAR",
+            "ELES",
+            "UM..."
+        ]
+    },
+    {
+        "x1": 670,
+        "y1": 2130,
+        "x2": 818,
+        "y2": 2189,
+        "en": [
+            "...BY",
+            "ONE."
+        ],
+        "ptbr": [
+            "...",
+            "POR",
+            "UM."
+        ],
+        "ptbrpp": [
+            "...POR",
+            "UM."
+        ]
+    },
+    {
+        "x1": 1049,
+        "y1": 1997,
+        "x2": 1205,
+        "y2": 2123,
+        "en": [
+            "BUT",
+            "WHEN",
+            "SHE",
+            "CAME",
+            "TO",
+            "ME..."
+        ],
+        "ptbr": [
+            "MAS",
+            "QUANDO",
+            "ELA",
+            "VEIO",
+            "ATÉ",
+            "MIM..."
+        ],
+        "ptbrpp": [
+            "MAS",
+            "QUANDO",
+            "ELA",
+            "VEIO",
+            "PARA",
+            "MEU..."
+        ]
+    },
+    {
+        "x1": 1331,
+        "y1": 1711,
+        "x2": 1461,
+        "y2": 1808,
+        "en": [
+            "...SHE",
+            "PAUSED."
+        ],
+        "ptbr": [
+            "...ELA",
+            "PAUSOU."
+        ],
+        "ptbrpp": [
+            "...ELA",
+            "PAUSADO."
+        ]
+    },
+    {
+        "x1": 1656,
+        "y1": 2101,
+        "x2": 1890,
+        "y2": 2223,
+        "en": [
+            "AND",
+            "TURNED",
+            "THE",
+            "GUN",
+            "ON",
+            "HERSELF",
+            "INSTEAD."
+        ],
+        "ptbr": [
+            "E",
+            "GIROU",
+            "A",
+            "ARMA",
+            "PARA",
+            "SI",
+            "MESMO."
+        ],
+        "ptbrpp": [
+            "E",
+            "GIRADO",
+            "O",
+            "PISTOLA",
+            "SOBRE",
+            "MESMO",
+            "EM VEZ DE."
+        ]
+    },
+    {
+        "x1": 1407,
+        "y1": 2521,
+        "x2": 1685,
+        "y2": 2647,
+        "en": [
+            "WHY",
+            "SHE",
+            "CHOSE",
+            "TO",
+            "SPARE",
+            "ME",
+            "THAT",
+            "DAY,",
+            "I",
+            "WILL",
+            "NEVER",
+            "KNOW..."
+        ],
+        "ptbr": [
+            "POR",
+            "QUE",
+            "ELA",
+            "ESCOLHEU",
+            "ME",
+            "POUPAR",
+            "ESSE",
+            "DIA,",
+            "NUNCA",
+            "SABEREI..."
+        ],
+        "ptbrpp": [
+            "POR QUE",
+            "ELA",
+            "ESCOLHER",
+            "PARA",
+            "POUPAR",
+            "MEU",
+            "QUE",
+            "DIA,",
+            "EU",
+            "VAI",
+            "NUNCA",
+            "SABER..."
+        ]
+    }
+]

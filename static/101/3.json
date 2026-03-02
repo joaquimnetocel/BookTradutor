@@ -1,0 +1,337 @@
+[
+    {
+        "x1": 413,
+        "y1": 1483,
+        "x2": 751,
+        "y2": 1606,
+        "en": [
+            "GOOD",
+            "DAY,",
+            "DR.",
+            "ARKHAM.",
+            "I'M NOT",
+            "TOO",
+            "EARLY,",
+            "AM I?"
+        ],
+        "ptbr": [
+            "BOM",
+            "DIA,",
+            "DR.",
+            "ARKHAM.",
+            "NÃO",
+            "ESTOU",
+            "MUITO",
+            "ADIANTADO,",
+            "ESTOU?"
+        ],
+        "ptbrpp": [
+            "BOM",
+            "DIA,",
+            "DR.",
+            "ARKHAM.",
+            "NÃO ESTOU NÃO",
+            "MUITO",
+            "ADIANTADO,",
+            "ESTOU?"
+        ]
+    },
+    {
+        "x1": 407,
+        "y1": 1894,
+        "x2": 695,
+        "y2": 2095,
+        "en": [
+            "IT'S FINE.",
+            "THE FASTER",
+            "WE",
+            "COMPLETE",
+            "THIS",
+            "PROCESS,",
+            "THE BETTER."
+        ],
+        "ptbr": [
+            "TUDO",
+            "BEM.",
+            "QUANTO",
+            "MAIS",
+            "RÁPIDO",
+            "COMPLETARMOS",
+            "ESTE",
+            "PROCESSO,",
+            "MELHOR."
+        ],
+        "ptbrpp": [
+            "TUDO BEM.",
+            "QUANTO MAIS RÁPIDO",
+            "NÓS",
+            "COMPLETARMOS",
+            "ESTE",
+            "PROCESSO,",
+            "MELHOR."
+        ]
+    },
+    {
+        "x1": 1159,
+        "y1": 1533,
+        "x2": 1435,
+        "y2": 1674,
+        "en": [
+            "YOU'RE... NOT",
+            "RECONSIDERING,",
+            "ARE YOU?"
+        ],
+        "ptbr": [
+            "VOCÊ...",
+            "NÃO",
+            "ESTÁ",
+            "RECONSIDERANDO,",
+            "ESTÁ?"
+        ],
+        "ptbrpp": [
+            "VOCÊ NÃO ESTÁ...",
+            "RECONSIDERANDO,",
+            "ESTÁ?"
+        ]
+    },
+    {
+        "x1": 1154,
+        "y1": 1683,
+        "x2": 1434,
+        "y2": 1885,
+        "en": [
+            "NO...",
+            "NO.",
+            "IT'S",
+            "TIME.",
+            "AND",
+            "I",
+            "DO BELIEVE",
+            "THE",
+            "PRICE",
+            "REFLECTS",
+            "THAT..."
+        ],
+        "ptbr": [
+            "NÃO...",
+            "NÃO.",
+            "ESTÁ",
+            "NA",
+            "HORA.",
+            "E",
+            "ACREDITO",
+            "QUE",
+            "O",
+            "PREÇO",
+            "REFLETE",
+            "ISSO..."
+        ],
+        "ptbrpp": [
+            "NÃO...",
+            "NÃO.",
+            "ESTÁ",
+            "NA HORA.",
+            "E",
+            "EU",
+            "ACREDITO",
+            "O",
+            "PREÇO",
+            "REFLETE",
+            "ISSO..."
+        ]
+    },
+    {
+        "x1": 1102,
+        "y1": 1894,
+        "x2": 1330,
+        "y2": 2073,
+        "en": [
+            "AND",
+            "HOW",
+            "DETERMINED",
+            "I",
+            "AM",
+            "TO",
+            "GET",
+            "A",
+            "DEAL",
+            "DONE."
+        ],
+        "ptbr": [
+            "E",
+            "COMO",
+            "ESTOU",
+            "DETERMINADO",
+            "A",
+            "REALIZAR",
+            "UM",
+            "NEGÓCIO."
+        ],
+        "ptbrpp": [
+            "E",
+            "COMO",
+            "DETERMINADO",
+            "EU",
+            "ESTOU",
+            "PARA",
+            "REALIZAR",
+            "UM",
+            "NEGÓCIO",
+            "FEITO."
+        ]
+    },
+    {
+        "x1": 110,
+        "y1": 2194,
+        "x2": 454,
+        "y2": 2358,
+        "en": [
+            "NOW,",
+            "IF",
+            "YOU'LL",
+            "JUST",
+            "FOLLOW",
+            "ME,",
+            "I'LL",
+            "TAKE YOU",
+            "FOR",
+            "A",
+            "TOUR",
+            "OF THE",
+            "GROUNDS..."
+        ],
+        "ptbr": [
+            "AGORA,",
+            "SE",
+            "VOCÊ",
+            "ME",
+            "SEGUIR,",
+            "VOU",
+            "LEVÁ-LO",
+            "PARA",
+            "UM",
+            "PASSEIO",
+            "PELOS",
+            "TERRENOS..."
+        ],
+        "ptbrpp": [
+            "AGORA,",
+            "SE",
+            "VOCÊ",
+            "APENAS",
+            "SEGUIR",
+            "ME,",
+            "VOU",
+            "LEVÁ-LO",
+            "PARA",
+            "UM",
+            "PASSEIO",
+            "PELOS",
+            "TERRENOS..."
+        ]
+    },
+    {
+        "x1": 495,
+        "y1": 2212,
+        "x2": 825,
+        "y2": 2477,
+        "en": [
+            "I COULDN'T HELP BUT NOTICE...",
+            "THIS",
+            "WOMAN.",
+            "IF",
+            "YOU",
+            "DON'T",
+            "MIND",
+            "ME",
+            "ASKING...",
+			"WHO",
+            "IS",
+            "SHE?"
+        ],
+        "ptbr": [
+            "EU NÃO",
+            "PUDE",
+            "DEIXAR",
+            "DE",
+            "NOTAR...",
+            "ESTA",
+            "MULHER.",
+            "SE",
+            "VOCÊ",
+            "NÃO",
+            "SE",
+            "IMPORTA",
+            "QUE",
+            "EU",
+            "PERGUNTE...",
+            "QUEM",
+            "É",
+            "ELA?"
+        ],
+        "ptbrpp": [
+            "EU NÃO PUDE DEIXAR DE NOTAR...",
+            "ESSA",
+            "MULHER.",
+            "SE",
+            "VOCÊ",
+            "NÃO",
+            "SE IMPORTA",
+            "QUE EU",
+            "PERGUNTE...",
+			"QUEM",
+            "É",
+            "ELA?"
+        ]
+    },
+    {
+        "x1": 1109,
+        "y1": 2786,
+        "x2": 1334,
+        "y2": 2925,
+        "en": [
+            "THAT",
+            "WOULD BE...",
+            "MY",
+            "MOTHER."
+        ],
+        "ptbr": [
+            "AQUELA",
+            "SERIA...",
+            "MINHA",
+            "MÃE."
+        ],
+        "ptbrpp": [
+            "AQUELA",
+            "SERIA",
+            "MINHA",
+            "MÃE."
+        ]
+    },
+    {
+        "x1": 1737,
+        "y1": 2256,
+        "x2": 1885,
+        "y2": 2443,
+        "en": [
+            "IN SOME WAYS,",
+            "IT",
+            "CAN",
+            "BE",
+            "SAID..."
+        ],
+        "ptbr": [
+            "DE",
+            "ALGUMA",
+            "MANEIRA,",
+            "ISSO PODE SER DITO..."
+        ],
+        "ptbrpp": [
+            "DE ALGUMA MANEIRA,",
+            "ISTO",
+            "PODE",
+            "SER",
+            "DITO..."
+        ]
+    }
+]

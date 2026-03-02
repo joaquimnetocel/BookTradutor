@@ -9,7 +9,7 @@ const schema = v.object({
 
 export const funcaoLerBaloes = query(schema, async ({ pagina, edicao }): Promise<Balao[]> => {
 	const { fetch } = getRequestEvent();
-	const resultado = await fetch(`/${edicao}/json/${pagina}.json`);
+	const resultado = await fetch(`/${edicao}/${pagina}.json`);
 	if (resultado.ok === false) {
 		return [];
 	}

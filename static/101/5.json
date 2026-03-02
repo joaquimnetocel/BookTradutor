@@ -1,0 +1,384 @@
+[
+    {
+        "x1": 1393,
+        "y1": 140,
+        "x2": 1552,
+        "y2": 238,
+        "en": [
+            "OR",
+            "SO",
+            "WE",
+            "THOUGHT."
+        ],
+        "ptbr": [
+            "OU",
+            "ASSIM",
+            "PENSAMOS."
+        ],
+        "ptbrpp": [
+            "OU",
+            "ENTÃO",
+            "NÓS",
+            "PENSAMENTO."
+        ]
+    },
+    {
+        "x1": 1453,
+        "y1": 296,
+        "x2": 1804,
+        "y2": 430,
+        "en": [
+            "WE",
+            "QUICKLY",
+            "REALIZED",
+            "THE",
+            "SOLDIER",
+            "AT",
+            "THE",
+            "DOOR",
+            "WAS",
+            "NOT",
+            "MY",
+            "FATHER."
+        ],
+        "ptbr": [
+            "RAPIDAMENTE",
+            "PERCEBEMOS",
+            "QUE",
+            "O",
+            "SOLDADO",
+            "NA",
+            "PORTA",
+            "NÃO",
+            "ERA",
+            "MEU",
+            "PAI."
+        ],
+        "ptbrpp": [
+            "NÓS",
+            "RAPIDAMENTE",
+            "PERCEBEU",
+            "O",
+            "SOLDADO",
+            "NO",
+            "O",
+            "PORTA",
+            "ERA",
+            "NÃO",
+            "MEU",
+            "PAI."
+        ]
+    },
+    {
+        "x1": 1502,
+        "y1": 1219,
+        "x2": 1811,
+        "y2": 1383,
+        "en": [
+            "THE",
+            "LETTER",
+            "HE",
+            "HANDED",
+            "MY",
+            "MOTHER",
+            "WOULD",
+            "EXPLAIN",
+            "EVERYTHING,",
+            "HE",
+            "SAID."
+        ],
+        "ptbr": [
+            "A",
+            "CARTA",
+            "QUE",
+            "ELE",
+            "ENTREGOU",
+            "À",
+            "MINHA",
+            "MÃE",
+            "EXPLICARIA",
+            "TUDO,",
+            "DISSE",
+            "ELE."
+        ],
+        "ptbrpp": [
+            "O",
+            "CARTA",
+            "ELE",
+            "MÃO",
+            "MEU",
+            "MÃE",
+            "SERIA",
+            "EXPLICAR",
+            "TUDO,",
+            "ELE",
+            "DISSE."
+        ]
+    },
+    {
+        "x1": 107,
+        "y1": 1519,
+        "x2": 317,
+        "y2": 1576,
+        "en": [
+            "AND",
+            "SO",
+            "IT",
+            "DID."
+        ],
+        "ptbr": [
+            "E",
+            "ASSIM",
+            "FOI."
+        ],
+        "ptbrpp": [
+            "E",
+            "ENTÃO",
+            "ISTO",
+            "FEZ."
+        ]
+    },
+    {
+        "x1": 130,
+        "y1": 1606,
+        "x2": 481,
+        "y2": 1737,
+        "en": [
+            "IT",
+            "CAME",
+            "FROM",
+            "THE",
+            "NEWLY",
+            "INSTALLED",
+            "PRESIDENT",
+            "JOHNSON..."
+        ],
+        "ptbr": [
+            "VEIO",
+            "DO",
+            "RECÉM-INSTALADO",
+            "PRESIDENTE",
+            "JOHNSON..."
+        ],
+        "ptbrpp": [
+            "ISTO",
+            "VEIO",
+            "DE",
+            "O",
+            "RECENTEMENTE",
+            "INSTALADO",
+            "PRESIDENTE",
+            "JOHNSON..."
+        ]
+    },
+    {
+        "x1": 94,
+        "y1": 2557,
+        "x2": 414,
+        "y2": 2821,
+        "en": [
+            "INFORMING",
+            "US",
+            "THAT",
+            "FATHER",
+            "HAD",
+            "BEEN",
+            "KILLED",
+            "AT",
+            "THE",
+            "BATTLE",
+            "OF",
+            "PALMITO",
+            "RANCH.",
+            "IRONICALLY,",
+            "A",
+            "BATTLE",
+            "FOUGHT",
+            "AFTER",
+            "LEE’S",
+            "SURRENDER.",
+            "MEANING..."
+        ],
+        "ptbr": [
+            "INFORMANDO-NOS",
+            "QUE",
+            "O",
+            "PAI",
+            "FOI",
+            "MORTO",
+            "NA",
+            "BATALHA",
+            "DO",
+            "RANCHO",
+            "PALMITO.",
+            "IRONICAMENTE,",
+            "UMA",
+            "BATALHA",
+            "TRAVADA",
+            "APÓS",
+            "A",
+            "RENDA",
+            "DE",
+            "LEE.",
+            "SIGNIFICADO..."
+        ],
+        "ptbrpp": [
+            "INFORMANDO",
+            "NÓS",
+            "QUE",
+            "PAI",
+            "TIVE",
+            "ESTIVE",
+            "MORTO",
+            "NO",
+            "O",
+            "BATALHA",
+            "DE",
+            "PALMITO",
+            "RANCHO.",
+            "IRONICAMENTE,",
+            "UM",
+            "BATALHA",
+            "DISPUTADO",
+            "DEPOIS",
+            "BORRAS",
+            "RENDER.",
+            "SIGNIFICADO..."
+        ]
+    },
+    {
+        "x1": 209,
+        "y1": 2860,
+        "x2": 498,
+        "y2": 2950,
+        "en": [
+            "...MY",
+            "FATHER",
+            "DIED",
+            "IN",
+            "A",
+            "POINTLESS",
+            "BATTLE."
+        ],
+        "ptbr": [
+            "...MEU",
+            "PAI",
+            "MORREU",
+            "EM",
+            "UMA",
+            "BATALHA",
+            "INÚTIL."
+        ],
+        "ptbrpp": [
+            "...MEU",
+            "PAI",
+            "MORREU",
+            "EM",
+            "UM",
+            "INÚTIL",
+            "BATALHA."
+        ]
+    },
+    {
+        "x1": 645,
+        "y1": 1582,
+        "x2": 941,
+        "y2": 1779,
+        "en": [
+            "IT",
+            "WAS",
+            "ALL",
+            "TOO",
+            "MUCH",
+            "FOR",
+            "MY",
+            "MOTHER",
+            "TO",
+            "TAKE.",
+            "THE",
+            "SOLDIER,",
+            "TO",
+            "HIS",
+            "CREDIT,",
+            "TRIED",
+            "TO",
+            "CONSOLE",
+            "HER."
+        ],
+        "ptbr": [
+            "ERA",
+            "DEMAIS",
+            "PARA",
+            "MINHA",
+            "MÃE",
+            "TOMAR.",
+            "O",
+            "SOLDADO,",
+            "PARA",
+            "SEU",
+            "CRÉDITO,",
+            "TENTOU",
+            "CONSOLÁ-LA."
+        ],
+        "ptbrpp": [
+            "ISTO",
+            "ERA",
+            "TODOS",
+            "TAMBÉM",
+            "MUITO",
+            "PARA",
+            "MEU",
+            "MÃE",
+            "PARA",
+            "PEGAR.",
+            "O",
+            "SOLDADO,",
+            "PARA",
+            "DELE",
+            "CRÉDITO,",
+            "TESTADO",
+            "PARA",
+            "CONSOLE",
+            "DELA."
+        ]
+    },
+    {
+        "x1": 1134,
+        "y1": 1752,
+        "x2": 1293,
+        "y2": 1811,
+        "en": [
+            "BUT",
+            "SHE..."
+        ],
+        "ptbr": [
+            "MAS",
+            "ELA..."
+        ],
+        "ptbrpp": [
+            "MAS",
+            "ELA..."
+        ]
+    },
+    {
+        "x1": 1778,
+        "y1": 2309,
+        "x2": 1885,
+        "y2": 2448,
+        "en": [
+            "...HAD",
+            "OTHER",
+            "IDEAS."
+        ],
+        "ptbr": [
+            "...TINHA",
+            "OUTRAS",
+            "IDEIAS."
+        ],
+        "ptbrpp": [
+            "...TIVE",
+            "OUTRO",
+            "IDEIAS."
+        ]
+    }
+]

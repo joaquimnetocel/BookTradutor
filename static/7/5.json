@@ -1,0 +1,524 @@
+[
+    {
+        "x1": 129,
+        "y1": 58,
+        "x2": 411,
+        "y2": 165,
+        "en": [
+            "...ONLY",
+            "THE",
+            "HOW,",
+            "AS",
+            "IN,",
+            "'HOW",
+            "DO I",
+            "FIX",
+            "THIS?'"
+        ],
+        "ptbr": [
+            "...SOMENTE",
+            "COMO,",
+            "COMO",
+            "EM",
+            "'COMO",
+            "CONSERTO",
+            "ISSO?'"
+        ],
+        "ptbrpp": [
+            "...APENAS",
+            "O",
+            "COMO,",
+            "COMO",
+            "EM,",
+            "'COMO",
+            "EU",
+            "CONSERTO",
+            "ISSO?'"
+        ]
+    },
+    {
+        "x1": 501,
+        "y1": 151,
+        "x2": 913,
+        "y2": 280,
+        "en": [
+            "DECONTAMINATION",
+            "AND",
+            "ENVIRONMENTAL",
+            "INTEGRATION",
+            "PROTOCOLS",
+            "ARE",
+            "GOING",
+            "GREAT."
+        ],
+        "ptbr": [
+            "OS",
+            "PROTOCOLOS",
+            "DE",
+            "DESCONTAMINAÇÃO",
+            "E",
+            "INTEGRAÇÃO",
+            "AMBIENTAL",
+            "ESTÃO",
+            "ANDANDO",
+            "MUITO",
+            "BEM."
+        ],
+        "ptbrpp": [
+            "DESCONTAMINAÇÃO",
+            "E",
+            "AMBIENTAL",
+            "INTEGRAÇÃO",
+            "PROTOCOLOS",
+            "ESTÃO",
+            "INDO",
+            "BEM (ÓTIMO)."
+        ]
+    },
+    {
+        "x1": 803,
+        "y1": 295,
+        "x2": 982,
+        "y2": 364,
+        "en": [
+            "GLAD",
+            "TO",
+            "HEAR",
+            "IT."
+        ],
+        "ptbr": [
+            "FICO",
+            "FELIZ",
+            "EM",
+            "OUVIR",
+            "ISSO."
+        ],
+        "ptbrpp": [
+            "FELIZ",
+            "EM",
+            "OUVIR",
+            "ISTO."
+        ]
+    },
+    {
+        "x1": 683,
+        "y1": 381,
+        "x2": 992,
+        "y2": 549,
+        "en": [
+            "A FEW",
+            "MORE",
+            "DAYS",
+            "AND",
+            "THEY",
+            "CAN",
+            "BE",
+            "YOUR",
+            "PROBLEMS",
+            "AGAIN."
+        ],
+        "ptbr": [
+            "MAIS",
+            "ALGUNS",
+            "DIAS",
+            "E",
+            "ELES",
+            "PODEM",
+            "SER",
+            "SEUS",
+            "PROBLEMAS",
+            "NOVAMENTE."
+        ],
+        "ptbrpp": [
+            "ALGUNS",
+            "MAIS",
+            "DIAS",
+            "E",
+            "ELES",
+            "PODEM",
+            "SER",
+            "SEUS",
+            "PROBLEMAS",
+            "NOVAMENTE."
+        ]
+    },
+    {
+        "x1": 123,
+        "y1": 1080,
+        "x2": 405,
+        "y2": 1240,
+        "en": [
+            "THAT'S",
+            "COOL.",
+            "ARE",
+            "THEY",
+            "GIVING",
+            "YOU",
+            "ANY",
+            "TROUBLE?"
+        ],
+        "ptbr": [
+            "ISSO",
+            "É",
+            "LEGAL.",
+            "ELES",
+            "ESTÃO",
+            "LHE",
+            "CAUSANDO",
+            "ALGUM",
+            "PROBLEMA?"
+        ],
+        "ptbrpp": [
+            "ISSO É",
+            "LEGAL.",
+            "ESTÃO",
+            "ELES",
+            "CAUSANDO",
+            "A VOCÊ",
+            "ALGUM",
+            "PROBLEMA?"
+        ]
+    },
+    {
+        "x1": 416,
+        "y1": 1527,
+        "x2": 650,
+        "y2": 1645,
+        "en": [
+            "I",
+            "WAS",
+            "AWAY...",
+            "FAR AWAY...",
+            "FOR",
+            "A",
+            "WHILE."
+        ],
+        "ptbr": [
+            "EU ESTAVA",
+            "AUSENTE...",
+            "LONGE...",
+            "POR",
+            "UM",
+            "TEMPO."
+        ],
+        "ptbrpp": [
+            "EU",
+            "ESTAVA",
+            "AUSENTE...",
+            "DISTANTE",
+            "POR",
+            "UM",
+            "TEMPO."
+        ]
+    },
+    {
+        "x1": 752,
+        "y1": 1128,
+        "x2": 949,
+        "y2": 1224,
+        "en": [
+            "ARE",
+            "YOU",
+            "SERIOUS?"
+        ],
+        "ptbr": [
+            "VOCÊ",
+            "ESTÁ",
+            "FALANDO",
+            "SÉRIO?"
+        ],
+        "ptbrpp": [
+            "ESTÁ",
+            "VOCÊ",
+            "SÉRIO?"
+        ]
+    },
+    {
+        "x1": 975,
+        "y1": 1232,
+        "x2": 1175,
+        "y2": 1317,
+        "en": [
+            "GLA-SHEE-SHLORRP!"
+        ],
+        "ptbr": [
+            "GLA-SHEE-SHLORRP!"
+        ],
+        "ptbrpp": [
+            "GLA-SHEE-SHLORRP!"
+        ]
+    },
+    {
+        "x1": 1334,
+        "y1": 1126,
+        "x2": 1584,
+        "y2": 1364,
+        "en": [
+            "JOHNNY...",
+            "I",
+            "WOULDN'T LET",
+            "HIM",
+            "DO",
+            "THAT.",
+            "SYMBIE",
+            "DOESN'T",
+            "HAVE",
+            "TEETH,",
+            "BUT..."
+        ],
+        "ptbr": [
+            "JOHNNY...",
+            "EU",
+            "NÃO DEIXARIA",
+            "ELE",
+			"FAZER",
+            "ISSO.",
+            "SYMBIE",
+            "NÃO",
+            "TEM",
+            "DENTES,",
+            "MAS..."
+        ],
+        "ptbrpp": [
+            "JOHNNY...",
+            "EU",
+            "NÃO DEIXARIA",
+            "ELE",
+            "FAZER",
+            "ISSO.",
+            "SYMBIE (ENCURTAMENTO DE SIMBIONTE)",
+            "NÃO",
+            "TEM",
+            "DENTES,",
+            "MAS..."
+        ]
+    },
+    {
+        "x1": 1352,
+        "y1": 1773,
+        "x2": 1503,
+        "y2": 1874,
+        "en": [
+            "IS THAT",
+            "PETER?!"
+        ],
+        "ptbr": [
+            "É",
+            "O",
+            "PETER?!"
+        ],
+        "ptbrpp": [
+            "É O",
+            "PETER?!"
+        ]
+    },
+    {
+        "x1": 1566,
+        "y1": 2106,
+        "x2": 1888,
+        "y2": 2276,
+        "en": [
+            "WHILE",
+            "I",
+            "WAS",
+            "GONE,",
+            "PEOPLE",
+            "TRIED",
+            "TO TAKE",
+            "MY",
+            "PLACE...",
+            "AS",
+            "SPIDER-MAN",
+            "AND",
+            "PETER",
+            "PARKER."
+        ],
+        "ptbr": [
+            "ENQUANTO",
+            "EU",
+            "ESTAVA",
+            "FORA,",
+            "AS",
+            "PESSOAS",
+            "TENTARAM",
+            "TOMAR",
+            "MEU",
+            "LUGAR...",
+            "COMO",
+            "HOMEM-ARANHA",
+            "E",
+            "PETER",
+            "PARKER."
+        ],
+        "ptbrpp": [
+            "ENQUANTO",
+            "EU",
+            "ESTAVA",
+            "FORA,",
+            "PESSOAS",
+            "TENTARAM",
+            "TOMAR",
+            "MEU",
+            "LUGAR...",
+            "COMO",
+            "HOMEM-ARANHA",
+            "E",
+            "PETER",
+            "PARKER."
+        ]
+    },
+    {
+        "x1": 1680,
+        "y1": 2290,
+        "x2": 1885,
+        "y2": 2374,
+        "en": [
+            "VERY",
+            "MIXED",
+            "RESULTS."
+        ],
+        "ptbr": [
+            "RESULTADOS",
+            "MUITO",
+            "MISTURADOS."
+        ],
+        "ptbrpp": [
+            "MUITO",
+            "MISTURADOS",
+            "RESULTADOS."
+        ]
+    },
+    {
+        "x1": 100,
+        "y1": 2497,
+        "x2": 496,
+        "y2": 2740,
+        "en": [
+            "The Villages,",
+            "Florida--",
+			"An",
+            "unfortunate",
+            "vehicular",
+            "malfunction",
+            "coupled",
+            "with",
+            "a",
+            "massive",
+            "coronary",
+            "event",
+            "led",
+            "to",
+            "a",
+            "horrific",
+            "scene",
+            "for",
+            "the",
+            "elderly",
+            "residents",
+            "of The",
+            "Villages."
+        ],
+        "ptbr": [
+            "The Villages,",
+            "Flórida--",
+            "Um",
+            "infeliz",
+            "mau",
+            "funcionamento",
+            "do",
+            "veículo,",
+            "juntamente",
+            "com",
+            "um",
+            "enorme",
+            "evento",
+            "coronário,",
+            "levou",
+            "a",
+            "uma",
+            "cena",
+            "horrível",
+            "para",
+            "os",
+            "idosos",
+            "residentes",
+            "de",
+            "The",
+            "Villages."
+        ],
+        "ptbrpp": [
+            "AS ALDEIAS,",
+            "FLÓRIDA-–",
+			"UM",
+            "INFELIZ",
+            "VEICULAR",
+            "MAL FUNCIONAMENTO",
+            "JUNTAMENTE",
+            "COM",
+            "UM",
+            "ENORME",
+            "CORONÁRIO",
+            "EVENTO",
+            "LEVOU",
+            "A",
+            "UMA",
+            "HORRÍVEL",
+            "CENA",
+            "PARA",
+            "OS",
+            "IDOSOS",
+            "RESIDENTES",
+            "DAS",
+            "ALDEIAS."
+        ]
+    },
+    {
+        "x1": 1525,
+        "y1": 2750,
+        "x2": 1795,
+        "y2": 2920,
+        "en": [
+            "Gerold",
+            "Aubrauch",
+            "(86)",
+            "was",
+            "found",
+            "dead,",
+            "run over",
+            "by",
+            "his",
+            "own",
+            "lawn",
+            "mower..."
+        ],
+        "ptbr": [
+            "Gerold",
+            "Aubrauch",
+            "(86)",
+            "foi",
+            "encontrado",
+            "morto,",
+            "atropelado",
+            "por",
+            "seu",
+            "próprio",
+            "cortador",
+            "de",
+            "grama..."
+        ],
+        "ptbrpp": [
+            "GEROLD",
+            "AUBRAUCH",
+            "(86)",
+            "FOI",
+            "ENCONTRADO",
+            "MORTO,",
+            "ATROPELADO",
+            "POR",
+            "SEU",
+            "PRÓPRIO",
+            "GRAMA",
+            "CORTADOR..."
+        ]
+    }
+]

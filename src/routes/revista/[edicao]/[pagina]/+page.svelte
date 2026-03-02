@@ -51,6 +51,7 @@
 				edicao: page.params.edicao ?? '1',
 				pagina: page.params.pagina ?? '1'
 			});
+			console.log(baloes.value);
 		})();
 	});
 

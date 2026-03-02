@@ -1,0 +1,287 @@
+[
+    {
+        "x1": 424,
+        "y1": 112,
+        "x2": 817,
+        "y2": 208,
+        "en": [
+            "THESE",
+            "ARE",
+            "THE",
+            "WRITINGS",
+            "OF",
+            "DR.",
+            "AMADEUS",
+            "ARKHAM."
+        ],
+        "ptbr": [
+            "ESTES",
+            "SÃO",
+            "OS",
+            "ESCRITOS",
+            "DO",
+            "DR.",
+            "AMADEUS",
+            "ARKHAM."
+        ],
+        "ptbrpp": [
+            "ESTES",
+            "SÃO",
+            "OS",
+            "ESCRITOS",
+            "DO",
+            "DR.",
+            "AMADEUS",
+            "ARKHAM."
+        ]
+    },
+    {
+        "x1": 1137,
+        "y1": 135,
+        "x2": 1519,
+        "y2": 263,
+        "en": [
+            "THEY",
+            "SERVE",
+            "AS",
+            "A",
+            "CHRONICLE",
+            "OF THIS",
+            "INFAMOUS",
+            "PLACE",
+            "THAT",
+            "BEARS",
+            "MY",
+            "NAME..."
+        ],
+        "ptbr": [
+			"ELES",
+			"SERVEM",
+            "COMO UMA",
+            "CRÔNICA",
+            "DESSE",
+            "LUGAR",
+            "INFAME",
+            "QUE",
+            "LEVA",
+            "MEU",
+            "NOME..."
+        ],
+        "ptbrpp": [
+            "ELES",
+            "SERVEM",
+            "COMO",
+            "UMA",
+            "CRÔNICA",
+            "DESSE",
+            "INFAME",
+            "LUGAR",
+            "QUE",
+            "LEVA",
+            "MEU",
+            "NOME..."
+        ]
+    },
+    {
+        "x1": 1692,
+        "y1": 224,
+        "x2": 1857,
+        "y2": 315,
+        "en": [
+            "...ARKHAM",
+            "ASYLUM."
+        ],
+        "ptbr": [
+            "...ASILO",
+            "ARKHAM."
+        ],
+        "ptbrpp": [
+            "...ARKHAM",
+            "ASILO."
+        ]
+    },
+    {
+        "x1": 946,
+        "y1": 1088,
+        "x2": 1238,
+        "y2": 1189,
+        "en": [
+            "YET",
+            "THIS",
+            "BOOK",
+            "IS",
+            "ALSO",
+            "OTHER",
+            "THINGS..."
+        ],
+        "ptbr": [
+            "NO",
+            "ENTANTO,",
+            "ESTE",
+            "LIVRO",
+            "É",
+            "TAMBÉM",
+            "OUTRAS",
+            "COISAS..."
+        ],
+        "ptbrpp": [
+            "NO ENTANTO",
+            "ESSE",
+            "LIVRO",
+            "É",
+            "TAMBÉM",
+            "OUTRAS",
+            "COISAS..."
+        ]
+    },
+    {
+        "x1": 135,
+        "y1": 2088,
+        "x2": 571,
+        "y2": 2216,
+        "en": [
+            "...IT",
+            "IS",
+            "MY",
+            "CONFESSION.",
+            "IT",
+            "HOLDS",
+            "SECRETS",
+            "I",
+            "WILL TAKE",
+            "WITH ME",
+            "TO",
+            "MY",
+            "GRAVE."
+        ],
+        "ptbr": [
+            "...ESSA É",
+            "A",
+            "MINHA",
+            "CONFISSÃO.",
+            "ELA CONTÉM",
+            "SEGREDOS",
+            "QUE",
+            "LEVAREI",
+            "COMIGO",
+            "PARA",
+            "O",
+            "TÚMULO."
+        ],
+        "ptbrpp": [
+            "...ESSA",
+            "É",
+            "MINHA",
+            "CONFISSÃO.",
+            "ELA",
+            "CONTÉM",
+            "SEGREDOS",
+            "EU",
+            "LEVAREI",
+            "COMIGO",
+            "PARA",
+            "MEU",
+            "TÚMULO."
+        ]
+    },
+    {
+        "x1": 1180,
+        "y1": 2180,
+        "x2": 1502,
+        "y2": 2343,
+        "en": [
+            "IT IS",
+            "ALSO",
+            "A",
+            "WARNING.",
+            "ABOUT",
+            "THE",
+            "TERRIBLE",
+            "EVIL",
+            "I",
+            "HAVE UNLEASHED",
+            "UPON",
+            "THE",
+            "WORLD..."
+        ],
+        "ptbr": [
+            "É",
+            "TAMBÉM",
+            "UM",
+            "AVISO.",
+            "SOBRE",
+            "O",
+            "TERRÍVEL",
+            "MAL",
+            "QUE",
+            "LIBERTEI",
+            "SOBRE",
+            "O",
+            "MUNDO..."
+        ],
+        "ptbrpp": [
+            "É",
+            "TAMBÉM",
+            "UM",
+            "AVISO.",
+            "SOBRE",
+            "O",
+            "TERRÍVEL",
+            "MAL",
+            "EU",
+            "LIBERTEI",
+            "SOBRE",
+            "O",
+            "MUNDO..."
+        ]
+    },
+    {
+        "x1": 1486,
+        "y1": 2494,
+        "x2": 1784,
+        "y2": 2619,
+        "en": [
+            "...AND",
+            "A",
+            "PLEA",
+            "THAT",
+            "YOU,",
+            "READER,",
+            "STOP",
+            "IT",
+            "BEFORE",
+            "IT’S",
+            "TOO LATE..."
+        ],
+        "ptbr": [
+            "...E",
+            "UM",
+            "APELO",
+            "PARA",
+            "QUE",
+            "VOCÊ,",
+            "LEITOR,",
+            "PARE",
+            "COM",
+            "ISSO",
+            "ANTES",
+            "QUE",
+            "SEJA",
+            "TARDE",
+            "DEMAIS..."
+        ],
+        "ptbrpp": [
+            "...E",
+            "UM",
+            "APELO",
+            "PARA QUE",
+            "VOCÊ,",
+            "LEITOR,",
+            "PARE",
+            "ISTO",
+            "ANTES",
+            "QUE SEJA",
+            "TARDE DEMAIS..."
+        ]
+    }
+]

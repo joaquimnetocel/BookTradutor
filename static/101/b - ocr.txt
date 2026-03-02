@@ -1,0 +1,9 @@
+cd static/101
+
+Get-ChildItem *.jpg | ForEach-Object {
+    $nome = [System.IO.Path]::GetFileNameWithoutExtension($_.Name)
+    & "D:\Program Files\Tesseract-OCR\tesseract.exe" "$($_.Name)" "$nome" -l eng
+}
+
+cd..
+cd ..

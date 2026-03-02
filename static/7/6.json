@@ -1,0 +1,490 @@
+[
+    {
+        "x1": 116,
+        "y1": 99,
+        "x2": 331,
+        "y2": 250,
+        "en": [
+            "PETER!",
+            "THIS",
+            "PLACE",
+            "IS",
+            "A",
+            "WONDER!",
+            "MY",
+            "CELL",
+            "IS",
+            "HUGE!"
+        ],
+        "ptbr": [
+            "PETER!",
+            "ESTE",
+            "LUGAR",
+            "É",
+            "UMA",
+            "MARAVILHA!",
+            "MEU",
+            "CELULAR",
+            "É",
+            "ENORME!"
+        ],
+        "ptbrpp": [
+            "PETER!",
+            "ESSE",
+            "LUGAR",
+            "É",
+            "UM",
+            "MARAVILHA!",
+            "MEU",
+            "CÉLULA",
+            "É",
+            "ENORME!"
+        ]
+    },
+    {
+        "x1": 332,
+        "y1": 206,
+        "x2": 514,
+        "y2": 348,
+        "en": [
+            "AGAIN,",
+            "NOT",
+            "A",
+            "CELL.",
+            "A",
+            "'ROOM'",
+            "RAELITH--"
+        ],
+        "ptbr": [
+            "NOVAMENTE,",
+            "NÃO",
+            "É",
+            "UMA",
+            "CÉLULA.",
+            "UM",
+            "'QUARTO'",
+            "RAELITH--"
+        ],
+        "ptbrpp": [
+            "DE NOVO,",
+            "NÃO",
+            "UM",
+            "CÉLULA.",
+            "UM",
+            "'SALA'",
+            "RAELITH--"
+        ]
+    },
+    {
+        "x1": 313,
+        "y1": 938,
+        "x2": 620,
+        "y2": 1175,
+        "en": [
+            "I",
+            "HOPE",
+            "I",
+            "HAVE",
+            "SOME",
+            "TERRIBLE",
+            "PARASITE",
+            "AND",
+            "MUST",
+            "ENDURE",
+            "THEIR",
+            "HOSPITALITY",
+            "AND",
+            "“I-SCREAM”",
+            "FOR",
+            "MONTHS!"
+        ],
+        "ptbr": [
+            "ESPERO",
+            "TER",
+            "ALGUM",
+            "PARASITA",
+            "TERRÍVEL",
+            "E",
+            "DEVO",
+            "SUPORTAR",
+            "SUA",
+            "HOSPITALIDADE",
+            "E",
+            "“GRITAR”",
+            "POR",
+            "MESES!"
+        ],
+        "ptbrpp": [
+            "EU",
+            "TER ESPERANÇA",
+            "EU",
+            "TER",
+            "ALGUNS",
+            "TERRÍVEL",
+            "PARASITA",
+            "E",
+            "DEVE",
+            "AGUENTAR",
+            "DELES",
+            "HOSPITALIDADE",
+            "E",
+            "“EU-GRITO”",
+            "PARA",
+            "MESES!"
+        ]
+    },
+    {
+        "x1": 746,
+        "y1": 209,
+        "x2": 1049,
+        "y2": 351,
+        "en": [
+            "MY",
+            "BOREDOM",
+            "IS",
+            "CRIPPLING,",
+            "AND",
+            "MY",
+            "SUFFERING",
+            "IS",
+            "IMMEASURABLE."
+        ],
+        "ptbr": [
+            "MEU",
+            "tédio",
+            "é",
+            "paralisante",
+            "e",
+            "meu",
+            "sofrimento",
+            "é",
+            "incomensurável."
+        ],
+        "ptbrpp": [
+            "MEU",
+            "TÉDIO",
+            "É",
+            "ILEGAL,",
+            "E",
+            "MEU",
+            "SOFRIMENTO",
+            "É",
+            "IMENSURÁVEL."
+        ]
+    },
+    {
+        "x1": 938,
+        "y1": 1203,
+        "x2": 1183,
+        "y2": 1440,
+        "en": [
+            "IT'S",
+            "JUST",
+            "FOR",
+            "A",
+            "FEW",
+            "MORE",
+            "DAYS,",
+            "GLITCH.",
+            "THEN",
+            "WE'LL",
+            "FIGURE",
+            "OUT",
+            "NEXT",
+            "STEPS."
+        ],
+        "ptbr": [
+            "É",
+            "SÓ",
+            "MAIS",
+            "ALGUNS",
+            "DIAS,",
+            "GLITCH.",
+            "ENTÃO",
+            "VAMOS",
+            "DESCOBRIR",
+            "OS",
+            "PRÓXIMOS",
+            "PASSOS."
+        ],
+        "ptbrpp": [
+            "ISSO É",
+            "APENAS",
+            "PARA",
+            "UM",
+            "ALGUNS",
+            "MAIS",
+            "DIAS,",
+            "FALHA.",
+            "ENTÃO",
+            "BEM",
+            "FIGURA",
+            "FORA",
+            "PRÓXIMO",
+            "PASSOS."
+        ]
+    },
+    {
+        "x1": 1337,
+        "y1": 160,
+        "x2": 1628,
+        "y2": 362,
+        "en": [
+            "TRY",
+            "NOT",
+            "TO",
+            "DESTROY",
+            "THE",
+            "BAXTER",
+            "BUILDING",
+            "BEFORE",
+            "YOU",
+            "GET",
+            "THE",
+            "ALL",
+            "CLEAR.",
+            "OKAY?"
+        ],
+        "ptbr": [
+            "TENTE",
+            "NÃO",
+            "DESTRUIR",
+            "O",
+            "EDIFÍCIO",
+            "BAXTER",
+            "ANTES",
+            "DE",
+            "RESOLVER",
+            "TUDO.",
+            "OK?"
+        ],
+        "ptbrpp": [
+            "TENTAR",
+            "NÃO",
+            "PARA",
+            "DESTRUIR",
+            "O",
+            "BAXTER",
+            "PRÉDIO",
+            "ANTES",
+            "VOCÊ",
+            "PEGAR",
+            "O",
+            "TODOS",
+            "CLARO.",
+            "OK?"
+        ]
+    },
+    {
+        "x1": 1347,
+        "y1": 1107,
+        "x2": 1636,
+        "y2": 1281,
+        "en": [
+            "MISS",
+            "YOU.",
+            "GOOD",
+            "LUCK",
+            "RECONSTRUCTING",
+            "THE",
+            "TATTERS",
+            "OF",
+            "YOUR",
+            "LIFE--!"
+        ],
+        "ptbr": [
+            "SINTO",
+            "SUA",
+            "FALTA.",
+            "BOA",
+            "SORTE",
+            "NA",
+            "RECONSTRUÇÃO",
+            "DOS",
+            "FRASCO",
+            "DA",
+            "SUA",
+            "VIDA--!"
+        ],
+        "ptbrpp": [
+            "PERDER",
+            "VOCÊ.",
+            "BOM",
+            "SORTE",
+            "RECONSTRUINDO",
+            "O",
+            "FARRAPOS",
+            "DE",
+            "SEU",
+            "VIDA--!"
+        ]
+    },
+    {
+        "x1": 337,
+        "y1": 1828,
+        "x2": 531,
+        "y2": 1912,
+        "en": [
+            "WORKING",
+            "ON",
+            "IT."
+        ],
+        "ptbr": [
+            "TRABALHANDO",
+            "NISSO."
+        ],
+        "ptbrpp": [
+            "TRABALHANDO",
+            "SOBRE",
+            "ISTO."
+        ]
+    },
+    {
+        "x1": 1382,
+        "y1": 1633,
+        "x2": 1763,
+        "y2": 1771,
+        "en": [
+            "WEEKS",
+            "OF",
+            "LETTERS",
+            "FROM",
+            "MAY,",
+            "HUNDREDS",
+            "OF",
+            "VOICEMAILS",
+            "FROM",
+            "EVERYONE",
+            "I",
+            "KNOW."
+        ],
+        "ptbr": [
+            "SEMANAS",
+            "DE",
+            "CARTAS",
+            "DE",
+            "MAIO,",
+            "CENTENAS",
+            "DE",
+            "CORREIOS",
+            "DE",
+            "VOZ",
+            "DE",
+            "TODOS",
+            "QUE",
+            "CONHEÇO."
+        ],
+        "ptbrpp": [
+            "SEMANAS",
+            "DE",
+            "CARTAS",
+            "DE",
+            "PODERIA,",
+            "CENTENAS",
+            "DE",
+            "CORREIOS DE VOZ",
+            "DE",
+            "TODOS",
+            "EU",
+            "SABER."
+        ]
+    },
+    {
+        "x1": 1562,
+        "y1": 1792,
+        "x2": 1893,
+        "y2": 1962,
+        "en": [
+            "PEOPLE",
+            "JOKE",
+            "ABOUT",
+            "HAVING",
+            "TO",
+            "“CATCH",
+            "UP",
+            "ON",
+            "LIFE,”",
+            "BUT",
+            "THAT'S",
+            "EXACTLY",
+            "WHAT",
+            "I",
+            "NEED",
+            "TO",
+            "DO."
+        ],
+        "ptbr": [
+            "AS",
+            "PESSOAS",
+            "BRINCAM",
+            "SOBRE",
+            "TER",
+            "QUE",
+            "“ACOMPANHAR",
+            "A",
+            "VIDA”,",
+            "MAS",
+            "É",
+            "EXATAMENTE",
+            "ISSO",
+            "QUE",
+            "PRECISO",
+            "FAZER."
+        ],
+        "ptbrpp": [
+            "PESSOAS",
+            "PIADA",
+            "SOBRE",
+            "TENDO",
+            "PARA",
+            "\"PEGAR",
+            "ACIMA",
+            "SOBRE",
+            "VIDA,\"",
+            "MAS",
+            "ISSO É",
+            "EXATAMENTE",
+            "O QUE",
+            "EU",
+            "PRECISAR",
+            "PARA",
+            "FAZER."
+        ]
+    },
+    {
+        "x1": 1633,
+        "y1": 1984,
+        "x2": 1833,
+        "y2": 2065,
+        "en": [
+            "RIGHT",
+            "NOW.",
+            "FOCUSED."
+        ],
+        "ptbr": [
+            "AGORA",
+            "MESMO.",
+            "FOCADO."
+        ],
+        "ptbrpp": [
+            "CERTO",
+            "AGORA.",
+            "FOCADO."
+        ]
+    },
+    {
+        "x1": 1782,
+        "y1": 2172,
+        "x2": 1871,
+        "y2": 2234,
+        "en": [
+            "NOW."
+        ],
+        "ptbr": [
+            "AGORA."
+        ],
+        "ptbrpp": [
+            "AGORA."
+        ]
+    }
+]

@@ -1,0 +1,286 @@
+[
+    {
+        "x1": 132,
+        "y1": 214,
+        "x2": 356,
+        "y2": 261,
+        "en": [
+            "MONTHS",
+            "AGO"
+        ],
+        "ptbr": [
+            "MESES",
+            "ATRÁS"
+        ],
+        "ptbrpp": [
+            "MESES",
+            "ATRÁS"
+        ]
+    },
+    {
+        "x1": 1140,
+        "y1": 441,
+        "x2": 1423,
+        "y2": 620,
+        "en": [
+            "OUR",
+            "LIVES",
+            "ARE",
+            "WOVEN",
+            "THROUGH WITH",
+            "POWERFUL",
+            "BUT",
+            "FRAGILE",
+            "THREADS."
+        ],
+        "ptbr": [
+            "NOSSAS",
+            "VIDAS",
+            "SÃO",
+            "TECIDAS",
+            "COM",
+            "FIOS",
+            "PODEROSOS,",
+            "MAS",
+            "FRÁGEIS."
+        ],
+        "ptbrpp": [
+            "NOSSAS",
+            "VIDAS",
+            "SÃO",
+            "TECIDAS",
+            "COM",
+            "PODEROSOS",
+            "MAS",
+            "FRÁGEIS",
+            "FIOS."
+        ]
+    },
+    {
+        "x1": 787,
+        "y1": 744,
+        "x2": 1031,
+        "y2": 822,
+        "en": [
+            "HUMAN",
+            "CONNECTIONS."
+        ],
+        "ptbr": [
+            "CONEXÕES",
+            "HUMANAS."
+        ],
+        "ptbrpp": [
+            "HUMANAS",
+            "CONEXÕES."
+        ]
+    },
+    {
+        "x1": 1320,
+        "y1": 1022,
+        "x2": 1596,
+        "y2": 1161,
+        "en": [
+            "CALLING THEM",
+            "A",
+            "‘WEB’",
+            "IS",
+            "TOO",
+            "ON THE NOSE,",
+            "EVEN",
+            "FOR",
+            "ME..."
+        ],
+        "ptbr": [
+            "CHAMÁ-LOS",
+            "DE",
+			"UMA",
+            "‘TEIA’",
+            "É",
+            "MUITO",
+            "NO",
+            "NARIZ,",
+            "MESMO",
+            "PARA",
+            "MIM..."
+        ],
+        "ptbrpp": [
+            "CHAMÁ-LOS",
+            "UMA",
+            "‘TEIA’",
+            "É",
+            "MUITO",
+            "NA CARA, (A TRADUÇÃO LITERAL SERIA MUITO NO NARIZ)",
+            "ATÉ",
+            "PARA",
+            "MIM..."
+        ]
+    },
+    {
+        "x1": 123,
+        "y1": 1279,
+        "x2": 394,
+        "y2": 1476,
+        "en": [
+            "...BUT",
+            "I",
+            "BELIEVE",
+            "THAT",
+            "THESE",
+            "RELATIONSHIPS",
+            "FORM",
+            "THE",
+            "FOUNDATION",
+            "OF",
+            "WHO",
+            "WE",
+            "ARE."
+        ],
+        "ptbr": [
+            "...MAS",
+            "ACREDITO",
+            "QUE",
+            "ESTES",
+            "RELACIONAMENTOS",
+            "FORMAM",
+            "A",
+            "FUNDAÇÃO",
+            "DE",
+            "QUEM",
+			"NÓS",
+            "SOMOS."
+        ],
+        "ptbrpp": [
+            "...MAS",
+            "EU",
+            "ACREDITO",
+            "QUE",
+            "ESSES",
+            "RELACIONAMENTOS",
+            "FORMAM",
+            "A",
+            "FUNDAÇÃO",
+            "DE",
+            "QUEM",
+            "NÓS",
+            "SOMOS."
+        ]
+    },
+    {
+        "x1": 1374,
+        "y1": 1887,
+        "x2": 1590,
+        "y2": 1962,
+        "en": [
+            "AND",
+            "I",
+            "LET",
+            "MINE",
+            "SNAP."
+        ],
+        "ptbr": [
+            "E",
+            "DEIXEI",
+            "O",
+            "MEU",
+            "SE ROMPER."
+        ],
+        "ptbrpp": [
+            "E",
+            "EU",
+            "DEIXEI",
+            "MEU",
+            "SE ROMPER."
+        ]
+    },
+    {
+        "x1": 1579,
+        "y1": 2041,
+        "x2": 1751,
+        "y2": 2152,
+        "en": [
+            "IT WASN'T",
+            "TOTALLY",
+            "MY",
+            "FAULT."
+        ],
+        "ptbr": [
+            "NÃO",
+            "FOI",
+            "TOTALMENTE",
+            "MINHA",
+            "CULPA."
+        ],
+        "ptbrpp": [
+            "NÃO FOI",
+            "TOTALMENTE",
+            "MINHA",
+            "CULPA."
+        ]
+    },
+    {
+        "x1": 184,
+        "y1": 2466,
+        "x2": 496,
+        "y2": 2576,
+        "en": [
+            "BUT",
+            "MAYBE",
+            "IT WAS.",
+            "I",
+            "DON’T",
+            "REALLY",
+            "KNOW",
+            "ANYMORE."
+        ],
+        "ptbr": [
+            "MAS",
+            "TALVEZ",
+            "FOI.",
+            "EU",
+            "NÃO",
+            "SEI",
+            "MAIS."
+        ],
+        "ptbrpp": [
+            "MAS",
+            "TALVEZ",
+            "FOI.",
+            "EU",
+            "NÃO",
+            "REALMENTE",
+            "SEI",
+            "MAIS."
+        ]
+    },
+    {
+        "x1": 992,
+        "y1": 2844,
+        "x2": 1229,
+        "y2": 2958,
+        "en": [
+            "TRUTH",
+            "IS,",
+            "THE",
+            "WHY",
+            "DOESN'T",
+            "MATTER..."
+        ],
+        "ptbr": [
+            "A",
+            "VERDADE",
+            "É,",
+            "O",
+            "PORQUÊ",
+            "NÃO",
+            "IMPORTA..."
+        ],
+        "ptbrpp": [
+            "VERDADE",
+            "É,",
+            "O",
+            "PORQUÊ",
+            "NÃO",
+            "IMPORTA..."
+        ]
+    }
+]
