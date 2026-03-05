@@ -1,23 +1,19 @@
 <script lang="ts">
+	import type { typeDados } from '$lib/types/typeDados';
 	import { tick } from 'svelte';
 	import { fade } from 'svelte/transition';
 	import 'swiper/css';
 	import { Swiper, SwiperSlide } from 'swiper/svelte';
-	import MoviePreview from './MoviePreview.svelte';
+	import Revista from './Revista.svelte';
 
 	let {
-		collection
+		colecao
 	}: {
-		// eslint-disable-next-line @typescript-eslint/no-explicit-any
-		collection: any;
+		colecao: typeDados[];
 	} = $props();
 
 	let innerWidth = $state<number>();
 	let slidesPerView = $state<number>();
-	// eslint-disable-next-line @typescript-eslint/no-explicit-any
-	let movies = $state<any>({
-		results: []
-	});
 
 	const setSlidesPerView = async (w: number) => {
 		await tick();
@@ -31,12 +27,6 @@
 			slidesPerView = 2.2;
 		}
 	};
-
-	$effect(() => {
-		if (collection) {
-			movies = collection;
-		}
-	});
 
 	$effect(() => {
 		if (innerWidth) {
@@ -53,10 +43,10 @@
 	></div>
 
 	<Swiper spaceBetween={10} {slidesPerView}>
-		{#each movies.results as movie, index (index)}
+		{#each colecao as revista, index (index)}
 			<SwiperSlide>
 				<div in:fade={{ duration: 300, delay: index * 100 }}>
-					<MoviePreview {movie} />
+					<Revista {revista} />
 				</div>
 			</SwiperSlide>
 		{/each}
