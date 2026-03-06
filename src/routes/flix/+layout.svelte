@@ -1,7 +1,7 @@
 <script lang="ts">
 	// import { setContext } from 'svelte';
 	// import { writable } from 'svelte/store';
-	import Footer from '$lib/componentes/Footer.svelte';
+	import Rodape from '$lib/componentes/Rodape.svelte';
 	import { tema } from '$lib/stores/tema.svelte';
 	// import NavigationElement from '$components/bootstrap/NavigationElement.svelte';
 
@@ -31,5 +31,5 @@
 	<main class="grow bg-gray-light dark:bg-gray-dark">
 		{@render children()}
 	</main>
-	<Footer />
+	<Rodape />
 </div>

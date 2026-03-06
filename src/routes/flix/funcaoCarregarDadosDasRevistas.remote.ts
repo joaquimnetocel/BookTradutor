@@ -14,7 +14,7 @@ export const funcaoCarregarDadosDasRevistas = query(async (): Promise<typeDados[
 	const resultado: unknown[] = [];
 
 	for (const pasta of pastas) {
-		const arquivo = path.join(basePath, pasta, 'dados.json');
+		const arquivo = path.join(basePath, pasta, '0 - dados.json');
 
 		if (fs.existsSync(arquivo)) {
 			const conteudo = fs.readFileSync(arquivo, 'utf-8');

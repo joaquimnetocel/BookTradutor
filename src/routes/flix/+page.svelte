@@ -1,10 +1,12 @@
 <script lang="ts">
-	import MovieSection from '$lib/componentes/MovieSection.svelte';
+	import Banner from '$lib/componentes/Banner.svelte';
+	import Revista from '$lib/componentes/Revista.svelte';
+	import RolagemHorizontal from '$lib/componentes/RolagemHorizontal.svelte';
 	import type { typeDados } from '$lib/types/typeDados';
+	import { fade } from 'svelte/transition';
 	import { funcaoCarregarDadosDasRevistas } from './funcaoCarregarDadosDasRevistas.remote';
-	import { upcoming } from './upcoming';
 
-	let dados = $state<typeDados[]>();
+	let dados = $state<typeDados[]>([]);
 
 	$effect(() => {
 		(async () => {
@@ -20,12 +22,23 @@
 	});
 </script>
 
-{JSON.stringify(dados)}qqqq
+<div class="mt-8 mb-6">
+	<Banner colecao={dados.filter((current) => current.banner)} />
+</div>
 
 <div class="container space-y-6">
 	<div>
-		<h2 class="text-2xl text-gray-dark sm:text-3xl dark:text-gray-light">Upcoming</h2>
-		<MovieSection collection={upcoming} />
+		<h2 class="text-2xl font-bold text-gray-dark sm:text-3xl dark:text-gray-light">DESTAQUES</h2>
+		<RolagemHorizontal colecao={dados} />
+	</div>
+</div>
+<br />
+<div class="container mt-2 mb-7">
+	<h2 class="text-2xl font-bold text-gray-dark sm:text-3xl dark:text-gray-light">REVISTAS</h2>
+	<div class="grid grid-cols-3 gap-2 sm:grid-cols-4 lg:grid-cols-7">
+		{#each dados as revista, index (index)}
+			<div in:fade={{ duration: 300, delay: index * 100 }}><Revista {revista} /></div>
+		{/each}
 	</div>
 </div>
 
