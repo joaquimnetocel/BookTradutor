@@ -39,17 +39,20 @@
 	const derivedTransitionOut = $derived(
 		page.url.searchParams.get('direction') === 'next' ? '-100%' : '100%'
 	);
+	const derivedSaga = $derived(page.params.saga ? `${page.params.saga}/` : '');
 	/////
 
 	$effect(() => {
 		(async () => {
 			totalDePaginas.value = await funcaoLerTotalDePaginas({
 				edicao: page.params.edicao ?? '1',
-				pagina: page.params.pagina ?? '1'
+				pagina: page.params.pagina ?? '1',
+				saga: page.params.saga
 			});
 			baloes.value = await funcaoLerBaloes({
 				edicao: page.params.edicao ?? '1',
-				pagina: page.params.pagina ?? '1'
+				pagina: page.params.pagina ?? '1',
+				saga: page.params.saga
 			});
 		})();
 	});
@@ -80,7 +83,11 @@
 		disabled={paginaAtual <= 1}
 		onclick={() =>
 			paginaAtual > 1 &&
-			goto(resolve(`/leitura/${page.params.edicao}/${paginaAtual - 1}?direction=previous`))}
+			goto(
+				resolve(
+					`/leitura/${derivedSaga}${page.params.edicao}/${paginaAtual - 1}?direction=previous`
+				)
+			)}
 	>
 		VOLTAR
 	</button>
@@ -124,7 +131,7 @@
 			ontouchstart={arrastar.handleTouchStart}
 			ontouchend={arrastar.handleTouchEnd}
 			bind:this={elementoImagem}
-			src={`/${page.params.edicao}/${page.params.pagina}.jpg`}
+			src={`/${derivedSaga}${page.params.edicao}/${page.params.pagina}.jpg`}
 			alt="Quadrinho"
 			class="mb-4 block w-full"
 			onload={() => {
