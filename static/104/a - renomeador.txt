@@ -1,0 +1,4 @@
+cd static/101
+$i=1; Get-ChildItem *.jpg | Sort-Object Name | ForEach-Object { Rename-Item $_ "$i.jpg"; $i++ }
+cd ..
+cd..
