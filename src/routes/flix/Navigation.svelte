@@ -4,7 +4,7 @@
 	import { pesquisaVisivel } from '$lib/stores/pesquisaVisivel.svelte';
 	import { Icon, MagnifyingGlass } from 'svelte-hero-icons';
 	// import Logo from '$assets/img/Logo.svg?src';
-	import SearchModal from './SearchModal.svelte';
+	import SearchModal from '../../lib/componentes/SearchModal.svelte';
 </script>
 
 <SearchModal

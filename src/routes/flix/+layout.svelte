@@ -1,9 +1,9 @@
 <script lang="ts">
 	// import { setContext } from 'svelte';
 	// import { writable } from 'svelte/store';
-	import Navigation from '$lib/componentes/Navigation.svelte';
-	import Rodape from '$lib/componentes/Rodape.svelte';
 	import { tema } from '$lib/stores/tema.svelte';
+	import Navigation from './Navigation.svelte';
+	import Rodape from './Rodape.svelte';
 	// import '$lib/assets/css/app.css';
 	// import '$lib/assets/css/typing.css';
 	import type { Snippet } from 'svelte';

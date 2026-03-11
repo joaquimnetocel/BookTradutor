@@ -1,7 +1,7 @@
 <script lang="ts">
 	import { resolve } from '$app/paths';
+	import Rating from '$lib/componentes/Rating.svelte';
 	import type { typeDados } from '$lib/types/typeDados';
-	import Rating from './Rating.svelte';
 
 	let { revista }: { revista: typeDados } = $props();
 

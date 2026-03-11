@@ -1,7 +1,7 @@
 <script lang="ts">
-	import Banner from '$lib/componentes/Banner.svelte';
 	import Revista from '$lib/componentes/Revista.svelte';
 	import RolagemHorizontal from '$lib/componentes/RolagemHorizontal.svelte';
+	import Banner from './Banner.svelte';
 	// import { fade } from 'svelte/transition';
 	import { funcaoCarregarDadosDasRevistas } from './funcaoCarregarDadosDasRevistas.remote';
 
